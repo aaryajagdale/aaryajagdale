@@ -1,22 +1,22 @@
 <div align="center">
 
-  <!-- A Premium, Striking Text Header -->
+  <!-- Upgraded Typography Header in Full Vibrant Pink -->
   <br>
   <h1 align="center" style="border-bottom: none; margin-bottom: 0px;">
-    <samp style="font-size: 38px; font-weight: 900; letter-spacing: 3px; color: #ffffff; background: linear-gradient(45deg, #5cbdb9, #4f46e5); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      AARYA JAGDALE
-    </samp>
+    <font face="'Montserrat', 'Segoe UI', system-ui, sans-serif" size="7" color="#ff79c6">
+      <b>AARYA JAGDALE</b>
+    </font>
   </h1>
-  <p align="center" style="margin-top: 5px;">
-    <samp style="font-size: 13px; font-weight: 600; letter-spacing: 5px; color: #a5b4fc; opacity: 0.8;">
+  <p align="center" style="margin-top: 8px;">
+    <samp style="font-size: 13px; font-weight: 600; letter-spacing: 5px; color: #ff79c6; opacity: 0.9;">
       COMPUTER SCIENCE • AIML • MUMBAI
     </samp>
   </p>
 
   <br>
 
-  <!-- Sleek Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5CBDB9&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+one+line+at+a+time;Specializing+in+CSE+(AIML)+%26+UI%2FUX;Frontend+Development+%26+Smart+Solutions" alt="Typing SVG" />
+  <!-- Sleek Typing Animation in Neon Pink -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+one+line+at+a+time;Specializing+in+CSE+(AIML)+%26+UI%2FUX;Frontend+Development+%26+Smart+Solutions" alt="Typing SVG" />
 
   <br><br>
 
@@ -28,7 +28,7 @@
   <samp>
     🎓 <b>SVKM's Shri Bhagubai Mafatlal Polytechnic & College of Engineering</b>, Mumbai<br>
     💻 Engineering Student — <b>Artificial Intelligence & Machine Learning</b><br>
-    🎨 Passionate about <b>Frontend UI/UX, Branding, and Creative Visual Design</b><br>
+    🎨 Passionate about <span style="color: #ff79c6;"><b>Frontend UI/UX, Branding, and Creative Visual Design</b></span><br>
     🏐 Volleyball player driven by team collaboration, strategic layout design, and problem-solving
   </samp>
 
@@ -41,7 +41,7 @@
 
   <p>
     <a href="#">
-      <img src="https://img.shields.io/badge/Project-Nagar_Seva-5cbdb9?style=for-the-badge&labelColor=0a0a1a&logo=github" alt="Nagar Seva Project"/>
+      <img src="https://img.shields.io/badge/Project-Nagar_Seva-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=github" alt="Nagar Seva Project"/>
     </a>
   </p>
   <samp>
@@ -102,6 +102,27 @@
       </td>
     </tr>
   </table>
+
+  <br><br><br>
+
+  <!-- Connect With Me Section with Gmail Integrated -->
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> Let's Connect
+  </h2>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/aarya-jagdale-b99195360/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=ff79c6&labelColor=0a0a1a" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:jagdalemaarya@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4f46e5&labelColor=0a0a1a" alt="Email"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/aaryajagdalee" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-0a0a1a?style=for-the-badge&logo=instagram&logoColor=ff79c6&labelColor=0a0a1a" alt="Instagram"/>
+    </a>
+  </p>
 
   <br><br><br>
 
