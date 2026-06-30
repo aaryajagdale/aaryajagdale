@@ -1,142 +1,118 @@
 <div align="center">
 
-  <!-- Upgraded Typography Header in Full Vibrant Pink -->
-  <br>
-  <h1 align="center" style="border-bottom: none; margin-bottom: 0px;">
-    <font face="'Montserrat', 'Segoe UI', system-ui, sans-serif" size="7" color="#ff79c6">
-      <b>AARYA JAGDALE</b>
-    </font>
-  </h1>
-  <p align="center" style="margin-top: 8px;">
-    <samp style="font-size: 13px; font-weight: 600; letter-spacing: 5px; color: #ff79c6; opacity: 0.9;">
-      COMPUTER SCIENCE • AIML • MUMBAI
-    </samp>
-  </p>
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,100:ff79c6&height=200&section=header&text=Aarya%20Jagdale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Intelligent%20Systems%20%E2%80%A2%20Designing%20Beautiful%20Interfaces&descAlignY=55&descSize=18" width="100%"/>
 
-  <br>
+<br>
 
-  <!-- Sleek Typing Animation in Neon Pink -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+one+line+at+a+time;Specializing+in+CSE+(AIML)+%26+UI%2FUX;Frontend+Development+%26+Smart+Solutions" alt="Typing SVG" />
+<samp style="font-size: 13px; font-weight: 600; letter-spacing: 5px; color: #ff79c6; opacity: 0.9;">
+  COMPUTER SCIENCE • AI & ML • MUMBAI
+</samp>
 
-  <br><br>
+<br><br>
 
-  <!-- About Section Inside an Immersive, Structured block -->
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32"/> About Me
-  </h2>
-  
-  <samp>
-    🎓 <b>SVKM's Shri Bhagubai Mafatlal Polytechnic & College of Engineering</b>, Mumbai<br>
-    💻 Engineering Student — <b>Artificial Intelligence & Machine Learning</b><br>
-    🎨 Passionate about <span style="color: #ff79c6;"><b>Frontend UI/UX, Branding, and Creative Visual Design</b></span><br>
-    🏐 Volleyball player driven by team collaboration, strategic layout design, and problem-solving
-  </samp>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+one+line+at+a+time;Specializing+in+CSE+(AIML)+%26+UI%2FUX;Frontend+Development+%26+Smart+Solutions;Currently+exploring+Computer+Vision" alt="Typing SVG" />
 
-  <br><br><br>
+<br><br>
 
-  <!-- Featured Project Showcase -->
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28"/> Featured Innovation
-  </h2>
+<!-- Social badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aarya-jagdale-b99195360/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=ff79c6&labelColor=0a0a1a" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jagdalemaarya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=ff79c6&labelColor=0a0a1a" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/aaryajagdalee" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0a0a1a?style=for-the-badge&logo=instagram&logoColor=ff79c6&labelColor=0a0a1a" alt="Instagram"/>
+  </a>
+</p>
 
-  <p>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Project-Nagar_Seva-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=github" alt="Nagar Seva Project"/>
-    </a>
-  </p>
-  <samp>
-    Developed <b>Nagar Seva</b> — a gamified, smart road monitoring platform utilizing live GPS tracking<br> 
-    to seamlessly detect, log, and report infrastructure issues like potholes.
-  </samp>
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=aaryajagdale&style=for-the-badge&color=ff79c6&labelColor=0a0a1a" alt="Profile views"/>
 
-  <br><br><br>
+</div>
 
-  <!-- Core Tech Stack with Consistent Alignment -->
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> Core Tech Stack
-  </h2>
+<br>
 
-  <table align="center" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="110" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/><br>
-        <sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="110" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/><br>
-        <sub><b>TensorFlow</b></sub>
-      </td>
-      <td align="center" width="110" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/><br>
-        <sub><b>PyTorch</b></sub>
-      </td>
-      <td align="center" width="110" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/><br>
-        <sub><b>NumPy</b></sub>
-      </td>
-      <td align="center" width="110" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/><br>
-        <sub><b>Pandas</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/><br>
-        <sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="110" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/><br>
-        <sub><b>React</b></sub>
-      </td>
-      <td align="center" width="110" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/><br>
-        <sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" width="110" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/><br>
-        <sub><b>C++</b></sub>
-      </td>
-      <td align="center" width="110" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br>
-        <sub><b>Git</b></sub>
-      </td>
-    </tr>
-  </table>
+## 👩‍💻 About Me
 
-  <br><br><br>
+```yaml
+education: SVKM's Shri Bhagubai Mafatlal Polytechnic & College of Engineering, Mumbai
+program: Artificial Intelligence & Machine Learning
+focus: [Frontend UI/UX, Branding, Creative Visual Design, ML Systems]
+currently_learning: Computer Vision & Deep Learning
+hobby: Volleyball 🏐 — team strategy taught me a lot about system design
+fun_fact: I design interfaces the way I'd design a play — clean structure, fast execution
+```
 
-  <!-- Connect With Me Section with Gmail Integrated -->
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> Let's Connect
-  </h2>
+<br>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/aarya-jagdale-b99195360/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=ff79c6&labelColor=0a0a1a" alt="LinkedIn"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:jagdalemaarya@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4f46e5&labelColor=0a0a1a" alt="Email"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://instagram.com/aaryajagdalee" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-0a0a1a?style=for-the-badge&logo=instagram&logoColor=ff79c6&labelColor=0a0a1a" alt="Instagram"/>
-    </a>
-  </p>
+## 🚀 Featured Projects
 
-  <br><br><br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <!-- Elegant Footer Note -->
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="12"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="12"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="12"/>
-    <br><br>
-    <samp><i>"The best way to predict the future is to design it."</i></samp>
-    <br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="12"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="12"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="12"/>
-  </p>
+### 🛣️ Nagar Seva
+A gamified, smart road-monitoring platform that uses live GPS tracking to detect, log, and report infrastructure issues like potholes in real time.
 
+**Stack:** *(add your stack here, e.g. React, Node.js, Maps API, ML model)*
+
+[![Repo](https://img.shields.io/badge/View_Repo-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=github)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Project Two
+*(Swap in your next strongest project — name, one-line problem it solves, stack, and a repo/demo link. Two solid projects beat five vague ones.)*
+
+**Stack:** *(e.g. Python, TensorFlow, Pandas)*
+
+[![Repo](https://img.shields.io/badge/View_Repo-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=github)](#)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Core Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs,cpp,git,figma,html,css&theme=dark" />
+</p>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaryajagdale&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a1a&title_color=ff79c6&icon_color=ff79c6&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryajagdale&layout=compact&theme=dracula&hide_border=true&bg_color=0a0a1a&title_color=ff79c6&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryajagdale&theme=dracula&hide_border=true&background=0a0a1a&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" />
+</p>
+
+<!-- Animated contribution snake — requires a one-time GitHub Action setup, see note below -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aaryajagdale/aaryajagdale/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+<br>
+
+## 🌱 Currently
+
+- 🔭 Working on **Nagar Seva** and sharpening my ML fundamentals
+- 🌱 Learning **Computer Vision** and advanced **Deep Learning**
+- 🤝 Open to collaborating on **AI/ML** or **frontend UI/UX** projects
+- 💬 Ask me about **Python, ML pipelines, or interface design**
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:0a0a1a&height=100&section=footer" width="100%"/>
 </div>
