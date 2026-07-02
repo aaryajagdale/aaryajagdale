@@ -32,6 +32,11 @@
 
 ## 👩‍💻 About Me
 
+<!-- Floating character art — replace src with your own picks -->
+<a target="_blank">
+<img align="right" src="assets/girl-boss-sticker.png" width="220" style="border-radius: 12px; margin-left: 20px;" alt="Aarya">
+</a>
+
 <table align="center" width="100%" style="border: 2px solid #ff79c6; border-radius: 18px; background: linear-gradient(135deg, #1a0d1a, #0a0a1a); box-shadow: 0 0 25px rgba(255,121,198,0.4);">
 <tr>
 <td style="padding: 28px;">
@@ -86,7 +91,12 @@
 </tr>
 </table>
 
-<br>
+<!-- Second floating character art — replace src with your own pick -->
+<a target="_blank">
+<img align="right" src="assets/girl-engineer-sticker.png" width="200" style="border-radius: 12px; margin-left: 20px;" alt="Aarya">
+</a>
+
+<br clear="right">
 
 ## 🚀 Featured Projects
 
@@ -131,6 +141,16 @@ A gamified, smart road-monitoring platform that uses live GPS tracking to detect
 - 🌱 Learning **Computer Vision** and advanced **Deep Learning**
 - 🤝 Open to collaborating on **AI/ML** or **frontend UI/UX** projects
 - 💬 Ask me about **Python, ML pipelines, or interface design**
+
+<br>
+
+<!-- Snake Animation -->
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
 
 <br>
 
