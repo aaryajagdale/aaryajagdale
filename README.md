@@ -32,11 +32,6 @@
 
 ## 👩‍💻 About Me
 
-<!-- Floating character art — replace src with your own picks -->
-<a target="_blank">
-<img align="right" src="assets/girl-boss-sticker.png" width="220" style="border-radius: 12px; margin-left: 20px;" alt="Aarya">
-</a>
-
 <table align="center" width="100%" style="border: 2px solid #ff79c6; border-radius: 18px; background: linear-gradient(135deg, #1a0d1a, #0a0a1a); box-shadow: 0 0 25px rgba(255,121,198,0.4);">
 <tr>
 <td style="padding: 28px;">
@@ -91,13 +86,6 @@
 </tr>
 </table>
 
-<!-- Second floating character art — replace src with your own pick -->
-<a target="_blank">
-<img align="right" src="assets/girl-engineer-sticker.png" width="200" style="border-radius: 12px; margin-left: 20px;" alt="Aarya">
-</a>
-
-<br clear="right">
-
 ## 🚀 Featured Projects
 
 <table>
@@ -105,25 +93,66 @@
 <td width="50%" valign="top">
 
 ### 🛣️ Nagar Seva
-A gamified, smart road-monitoring platform that uses live GPS tracking to detect, log, and report infrastructure issues like potholes in real time.
+Gamified civic grievance platform with a dual interface — a Citizen App for reporting infrastructure issues like potholes in real time, and a Municipal Command Dashboard for managing resolutions with live, shared status timelines.
 
-**Stack:** *(add your stack here, e.g. React, Node.js, Maps API, ML model)*
+**Stack:** *(add repo link stack here, e.g. React, Node.js, Maps API)*
+
+**Built at:** Pixel Perfect Hackathon — SPIT
 
 [![Repo](https://img.shields.io/badge/View_Repo-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=github)](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Project Two
-*(Swap in your next strongest project — name, one-line problem it solves, stack, and a repo/demo link. Two solid projects beat five vague ones.)*
+### 🎓 Origin Trace
+Web and mobile platform to securely verify and authenticate academic credentials using blockchain-backed data integrity, with a dual interface for institutions, students, and employers.
 
-**Stack:** *(e.g. Python, TensorFlow, Pandas)*
+**Stack:** React.js, React Native, Node.js, Express.js, MongoDB, Blockchain, REST APIs
+
+**Built at:** Smart India Hackathon (SIH) 2025 — Internal Round, SBMPCOE
+
+[![Repo](https://img.shields.io/badge/View_Repo-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=github)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Reflo
+AI-powered restaurant review management ecosystem — an AI backend, HQ dashboard for owners, a customer PWA, and a public landing page, with automated sentiment analysis and risk scoring via Gemini.
+
+**Stack:** FastAPI, Google Gemini 2.0 Flash, Firebase Firestore, React, Vite, Tailwind CSS, Zustand, MUI
+
+**Built at:** HackX 4.0 — NMIMS Navi Mumbai
+
+[![Repo](https://img.shields.io/badge/View_Repo-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=github)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚨 RESQ
+AI-driven emergency response platform connecting users, volunteers, and admins, with intelligent responder assignment using nearest-neighbor and shortest-path (A*/Dijkstra-inspired) routing logic.
+
+**Stack:** HTML, CSS, JavaScript, Firebase, Google Gemini AI Studio, Puter.js
+
+**Built at:** GDG (Google Developer Group) Hackathon
 
 [![Repo](https://img.shields.io/badge/View_Repo-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=github)](#)
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## 🏆 Hackathons & Competitions
+
+| Event | Project |
+|---|---|
+| Smart India Hackathon (SIH) 2025 — Internal Round, SBMPCOE | Origin Trace |
+| Pixel Perfect Hackathon — SPIT | Nagar Seva |
+| HackX 4.0 — NMIMS Navi Mumbai | Reflo |
+| GDG (Google Developer Group) Hackathon | RESQ |
 
 <br>
 
@@ -135,21 +164,18 @@ A gamified, smart road-monitoring platform that uses live GPS tracking to detect
 
 <br>
 
-## 🌱 Currently
-
-- 🔭 Working on **Nagar Seva** and sharpening my ML fundamentals
-- 🌱 Learning **Computer Vision** and advanced **Deep Learning**
-- 🤝 Open to collaborating on **AI/ML** or **frontend UI/UX** projects
-- 💬 Ask me about **Python, ML pipelines, or interface design**
-
-<br>
-
 <!-- Snake Animation -->
 <div align="center">
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
+</div>
+
+<br>
+
+<div align="center">
+<img src="assets/barbie-in-engineering.jpeg" width="400" style="border-radius: 12px;" alt="Barbie in Engineering"/>
 </div>
 
 <br>
