@@ -105,7 +105,9 @@ Gamified civic grievance platform with a dual interface — a Citizen App for re
 
 <br>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-ff79c6?style=for-the-badge\&labelColor=0a0a1a\&logo=github)](#)
+<a href="https://nagarseva-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
 
 </td>
 
@@ -120,8 +122,6 @@ Web and mobile platform to securely verify and authenticate academic credentials
 **Built at:** Smart India Hackathon (SIH) 2025 — Internal Round, SBMPCOE
 
 <br>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-ff79c6?style=for-the-badge\&labelColor=0a0a1a\&logo=github)](#)
 
 </td>
 
@@ -145,10 +145,6 @@ AI-powered restaurant review management ecosystem featuring an AI backend, HQ da
 <img src="https://img.shields.io/badge/Live_Demo-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/View_Repo-ff79c6?style=for-the-badge&labelColor=0a0a1a&logo=github" alt="View Repo"/>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -162,8 +158,6 @@ AI-driven emergency response platform connecting users, volunteers, and admins, 
 **Built at:** GDG (Google Developer Group) Hackathon
 
 <br>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-ff79c6?style=for-the-badge\&labelColor=0a0a1a\&logo=github)](#)
 
 </td>
 
