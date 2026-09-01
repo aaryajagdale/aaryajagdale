@@ -26,7 +26,7 @@
 
 <br>
 
-## 👩‍💻 About Me
+##  About Me:
 
 <table align="center" width="100%">
 <tr>
@@ -74,8 +74,7 @@
 |              |                                                                                |
 | ------------ | ------------------------------------------------------------------------------ |
 | 🌍 Based in  | Mumbai, India                                                                  |
-| 💼 Field     | AI/ML + Frontend UI/UX                                                         |
-| 🛠️ Building | Nagar Seva                                                                     |
+| 💼 Field     | AI/ML + Frontend UI/UX                                                                                                                         |
 | 📚 Learning  | Computer Vision, Deep Learning                                                 |
 | 🤝 Open to   | AI/ML & frontend collaborations                                                |
 | 😄 Fun fact  | I treat debugging like a volleyball rally — stay calm, keep returning the ball |
@@ -88,14 +87,14 @@
 
 <br>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🛣️ Nagar Seva
+###  Nagar Seva
 
 Gamified civic grievance platform with a dual interface — a Citizen App for reporting infrastructure issues like potholes in real time, and a Municipal Command Dashboard for managing resolutions with live, shared status timelines.
 
@@ -113,7 +112,7 @@ Gamified civic grievance platform with a dual interface — a Citizen App for re
 
 <td width="50%" valign="top">
 
-### 🎓 Origin Trace
+###  Origin Trace
 
 Web and mobile platform to securely verify and authenticate academic credentials using blockchain-backed data integrity, with a dual interface for institutions, students, and employers.
 
@@ -131,7 +130,7 @@ Web and mobile platform to securely verify and authenticate academic credentials
 
 <td width="50%" valign="top">
 
-### 🍽️ Reflo
+###  Reflo
 
 AI-powered restaurant review management ecosystem featuring an AI backend, HQ dashboard for owners, customer PWA, and public landing page, with automated sentiment analysis and risk scoring powered by Gemini.
 
@@ -149,7 +148,7 @@ AI-powered restaurant review management ecosystem featuring an AI backend, HQ da
 
 <td width="50%" valign="top">
 
-### 🚨 RESQ
+###  RESQ
 
 AI-driven emergency response platform connecting users, volunteers, and admins, with intelligent responder assignment using nearest-neighbor and shortest-path routing logic inspired by A* and Dijkstra.
 
@@ -166,44 +165,14 @@ AI-driven emergency response platform connecting users, volunteers, and admins, 
 
 <br>
 
-## 🏆 Hackathons & Competitions
+##  Hackathons & Competitions
 
 | Event                                                         | Project         |
 | ------------------------------------------------------------- | --------------- |
-| 🥇 Smart India Hackathon (SIH) 2025 — Internal Round, SBMPCOE | 🎓 Origin Trace |
-| 🛣️ Pixel Perfect Hackathon — SPIT                            | Nagar Seva      |
-| 🍽️ HackX 4.0 — NMIMS Navi Mumbai                             | Reflo           |
-| 🚨 GDG Hackathon                                              | RESQ            |
-
-<br>
-
-## 🛠️ Core Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs,cpp,git,figma,html,css&theme=dark" />
-</p>
-
-<br>
-
-## 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aaryajagdale&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=ff79c6&icon_color=ff79c6&text_color=ffffff&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryajagdale&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=ff79c6&text_color=ffffff" width="40%" />
-
-</p>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
+|  Smart India Hackathon (SIH) 2025 — Internal Round, SBMPCOE |  Origin Trace |
+|  Pixel Perfect Hackathon — SPIT                            | Nagar Seva      |
+|  HackX 4.0 — NMIMS Navi Mumbai                             | Reflo           |
+|  GDG Hackathon                                              | RESQ            |
 
 <br>
 
